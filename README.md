@@ -1,2 +1,5 @@
 # Birinchi-amaliyot-DU-va-P
-Birinchi amaliyotda berilgan topshiriq bajarilgan
+Birinchi amaliyot DU va P da berilgan topshiriq 2 xil:
+- Python
+- C++
+dasturlash tillarida bajarildi
